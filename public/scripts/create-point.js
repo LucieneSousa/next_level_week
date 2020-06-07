@@ -1,5 +1,3 @@
-
-
 function populateUfs() {
     const ufSelect = document.querySelector("select[name=uf]")
 
